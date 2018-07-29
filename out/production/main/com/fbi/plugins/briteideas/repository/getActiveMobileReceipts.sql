@@ -1,0 +1,9 @@
+SELECT
+  `id`,
+  `mr_id`,
+  `description`,
+  `time_started`,
+  `time_finished`,
+  `time_uploaded`
+FROM
+  `bi_mr`

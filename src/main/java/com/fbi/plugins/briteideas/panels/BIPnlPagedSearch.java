@@ -526,7 +526,7 @@ public class BIPnlPagedSearch<GenericRowData extends RowData, GenericFBData exte
         return this.tblModel == null ? 0 : this.tblModel.getSelectedRowsData().size();
     }
 
-    public ArrayList<GenericRowData> getSelectedRowsData() {
+    public java.util.List<GenericRowData> getSelectedRowsData() {
         return this.tblModel == null ? new ArrayList() : this.tblModel.getSelectedRowsData();
     }
 

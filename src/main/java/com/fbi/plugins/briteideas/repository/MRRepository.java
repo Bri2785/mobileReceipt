@@ -11,7 +11,7 @@ import com.evnt.util.KeyConst;
 import com.fbi.fbo.impl.dataexport.DataExportResult;
 import com.fbi.plugins.briteideas.data.MobileReceipt;
 import com.fbi.plugins.briteideas.data.MobileReceiptItem;
-import com.fbi.sdk.constants.MethodConst;
+import com.evnt.common.MethodConst;
 import org.slf4j.LoggerFactory;
 import java.io.Writer;
 import java.io.InputStream;
